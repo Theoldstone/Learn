@@ -10,5 +10,9 @@ create a new branch is quick and simple.
 create a new branch is quick and simple.
 >>>>>>> feature1
 add merge
+<<<<<<< Updated upstream
 解决BUG
+=======
+hehehe
+>>>>>>> Stashed changes
 
