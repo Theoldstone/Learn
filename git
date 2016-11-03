@@ -1,0 +1,72 @@
+[33mcommit eaf8d1650aa0b5691d7b787eef9555128f9a0d5f[m
+Merge: 5598d6a 86d134f
+Author: chenzy <chenzy@yunminsoft.com>
+Date:   Thu Nov 3 14:10:37 2016 +0800
+
+    conflict fixed
+
+[33mcommit 5598d6a9dab4ff9015f04bd164ecd4d88a4c8584[m
+Author: chenzy <chenzy@yunminsoft.com>
+Date:   Thu Nov 3 14:08:05 2016 +0800
+
+    &simple
+
+[33mcommit 86d134fc9ddfd2fd55ab2bf17057c6f36e1ec97a[m
+Author: chenzy <chenzy@yunminsoft.com>
+Date:   Thu Nov 3 14:04:11 2016 +0800
+
+    and simple
+
+[33mcommit 36c5e13be34c95fb0e68b2179738680256b6e6c6[m
+Author: chenzy <chenzy@yunminsoft.com>
+Date:   Thu Nov 3 13:56:57 2016 +0800
+
+    add content create a new branch is quick
+
+[33mcommit aaef3973580d00f25b3cabbb152e4c5a0d6c6abe[m
+Author: chenzy <chenzy@yunminsoft.com>
+Date:   Wed Nov 2 11:40:32 2016 +0800
+
+    add text.txt
+
+[33mcommit 80d3cfc590957f57b47fee5e05be8391b9c12586[m
+Author: chenzy <chenzy@yunminsoft.com>
+Date:   Wed Nov 2 11:16:19 2016 +0800
+
+    append haha
+
+[33mcommit 5fd697d799efce9ec91615ced29b824fb9de4e4d[m
+Author: chenzy <chenzy@yunminsoft.com>
+Date:   Wed Nov 2 11:13:08 2016 +0800
+
+    add hehe
+
+[33mcommit de036ed1f8edaf61cfd530b9a177051391c97d75[m
+Author: chenzy <chenzy@yunminsoft.com>
+Date:   Wed Nov 2 11:11:13 2016 +0800
+
+    git tracks changes
+
+[33mcommit c6479223994c2fa4e1c06f7af1d77c71703e5cad[m
+Author: chenzy <chenzy@yunminsoft.com>
+Date:   Wed Nov 2 10:55:53 2016 +0800
+
+    add new .txtfile
+
+[33mcommit 17d8083d056db729bf3cb9b1df21d2dccfc7072e[m
+Author: chenzy <chenzy@yunminsoft.com>
+Date:   Wed Nov 2 10:30:10 2016 +0800
+
+    add new content
+
+[33mcommit 411c92ef264a2c852a735d3130a2167edd7d23d7[m
+Author: chenzy <chenzy@yunminsoft.com>
+Date:   Wed Nov 2 10:26:49 2016 +0800
+
+    delete a
+
+[33mcommit 216ba00adc8a7da865fc7243391ec6d468c94e33[m
+Author: chenzy <chenzy@yunminsoft.com>
+Date:   Tue Nov 1 17:20:14 2016 +0800
+
+    write a readme file
